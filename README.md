@@ -7,8 +7,8 @@ This Python program depends on a geopy python wrapper and a Google API key. It w
 When run, the program will open a Tkinter dialog box. The user can File-> Run: select file to be gecoded, select library key. The output will be another csv with a matching id field and the resultant geocoded (lat/lng) addresses delimited by with a "^".
 
 
-Install using [pip](http://www.pip-installer.org/en/latest/) with:
+First install GeoPy using [pip](http://www.pip-installer.org/en/latest/) with:
 
     pip install geopy
-    
+
 [GeoPy API](https://github.com/geopy/geopy)
