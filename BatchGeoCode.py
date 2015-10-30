@@ -3,7 +3,7 @@ from ttk import Frame, Button, Style
 import tkFileDialog
 import csv
 from geopy.geocoders import GoogleV3
-geolocator = GoogleV3(api_key='AIzaSyBLoWRtRu9JzdgMjm7tfeSyJhH5OCDZUlk') #using server api key @ https://console.developers.google.com/apis/api/geocoding_backend/usage?project=tough-talent-110721&duration=PT1H
+geolocator = GoogleV3(api_key='####') #using server api key @ https://console.developers.google.com/apis/api/geocoding_backend/usage?project=tough-talent-110721&duration=PT1H
 
 #global
 Master ={}
